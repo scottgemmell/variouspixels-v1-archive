@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bcab8eb7.chunk.css",
+    "main.js": "/static/js/main.b2771acc.chunk.js",
+    "main.js.map": "/static/js/main.b2771acc.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.082f0d49.js",
+    "runtime~main.js.map": "/static/js/runtime~main.082f0d49.js.map",
+    "static/js/2.06b73863.chunk.js": "/static/js/2.06b73863.chunk.js",
+    "static/js/2.06b73863.chunk.js.map": "/static/js/2.06b73863.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5fcbdf9435fc942ed6c2bf11461bf8cf.js": "/precache-manifest.5fcbdf9435fc942ed6c2bf11461bf8cf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bcab8eb7.chunk.css.map": "/static/css/main.bcab8eb7.chunk.css.map",
+    "static/media/css3.svg": "/static/media/css3.6e07ba18.svg",
+    "static/media/html5.svg": "/static/media/html5.600d9791.svg",
+    "static/media/javascript.svg": "/static/media/javascript.0e44f008.svg",
+    "static/media/react.svg": "/static/media/react.f0793d9f.svg",
+    "static/media/redux.svg": "/static/media/redux.5ae1af16.svg"
+  }
+}
